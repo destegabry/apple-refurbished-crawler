@@ -9,9 +9,10 @@
   "author": "Gabriele Destefanis <gabriele@destefanis.eu>",
   "license": "unlicense",
   "dependencies": {
+    "got": "^11.8.3",
     "jsdom": "^19.0.0"
   },
   "engines": {
-    "node": ">=17.5.0"
+    "node": ">=17.0.0"
   }
 }
