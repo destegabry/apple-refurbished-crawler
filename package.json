@@ -1,0 +1,14 @@
+{
+  "name": "apple-refurbished-crawler",
+  "version": "1.0.0",
+  "description": "Notifies when new matching HW is published on refurbished store",
+  "main": "scraper.js",
+  "scripts": {
+    "start": "node scraper conf.json"
+  },
+  "author": "Gabriele Destefanis <gabriele@destefanis.eu>",
+  "license": "unlicense",
+  "dependencies": {
+    "jsdom": "^19.0.0"
+  }
+}

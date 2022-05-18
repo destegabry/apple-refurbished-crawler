@@ -1,0 +1,22 @@
+{
+  "mailgun": {
+    "apiKey": null,
+    "domain": null,
+    "baseUrl": "https://api.eu.mailgun.net"
+  },
+  "email": {
+    "from": null,
+    "to": null,
+    "subject": "Refurbished iPad Airs are available!"
+  },
+  "scraper": {
+    "baseUrl": "https://www.apple.com/uk",
+    "path": "/shop/refurbished/ipad",
+    "filters": {
+      "refurbClearModel": "ipad5gen"
+    }
+  },
+  "history": {
+    "path": "./history.txt"
+  }
+}

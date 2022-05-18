@@ -1,0 +1,24 @@
+{
+  "mailgun": {
+    "apiKey": null,
+    "domain": null,
+    "baseUrl": "https://api.mailgun.net"
+  },
+  "email": {
+    "from": null,
+    "to": null,
+    "subject": "Refurbished 16GB 24\" iMacs are available!"
+  },
+  "scraper": {
+    "baseUrl": "https://www.apple.com",
+    "path": "/shop/refurbished/mac",
+    "filters": {
+      "refurbClearModel": "imac",
+      "dimensionScreensize": "24inch",
+      "tsMemorySize": "16gb"
+    }
+  },
+  "history": {
+    "path": "./history.txt"
+  }
+}
