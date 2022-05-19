@@ -39,8 +39,8 @@ The script is meant to be run from schedulers like [cron](https://crontab.guru/)
     "subject": "New refurbished Mac available!"
   },
   "scraper": {
-    "baseUrl": "https://www.apple.com/it",
-    "path": "/shop/refurbished/mac",
+    "baseUrl": "https://www.apple.com",
+    "path": "/it/shop/refurbished/mac",
     "filters": {
       "refurbClearModel": "imac",
       "dimensionScreensize": "24inch",

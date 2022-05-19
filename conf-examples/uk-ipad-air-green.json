@@ -10,8 +10,8 @@
     "subject": "Refurbished iPad Airs are available!"
   },
   "scraper": {
-    "baseUrl": "https://www.apple.com/uk",
-    "path": "/shop/refurbished/ipad",
+    "baseUrl": "https://www.apple.com",
+    "path": "/uk/shop/refurbished/ipad",
     "filters": {
       "refurbClearModel": "ipad5gen"
     }

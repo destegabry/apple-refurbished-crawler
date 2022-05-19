@@ -10,8 +10,8 @@
     "subject": "Sono disponibili iPhone 12 Pro da 128GB ricondizionati!"
   },
   "scraper": {
-    "baseUrl": "https://www.apple.com/it",
-    "path": "/shop/refurbished/iphone",
+    "baseUrl": "https://www.apple.com",
+    "path": "/it/shop/refurbished/iphone",
     "filters": {
       "refurbClearModel": "iphone12pro",
       "dimensionCapacity": "128gb"
